@@ -17,8 +17,9 @@ I am a Fullstack-dev
 $ cat about.txt
 
 > 2+ years of commercial development
-> specialization: web apps, crm systems
-> currently looking for new opportunities
+> specialization: web
+> open for new opportunities
+> interesting in open sources
 ```
 
 
